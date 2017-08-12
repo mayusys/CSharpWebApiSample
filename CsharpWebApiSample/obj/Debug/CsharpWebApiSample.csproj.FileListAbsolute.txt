@@ -1,0 +1,14 @@
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\CsharpWebApiSample.dll.config
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\CsharpWebApiSample.dll
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\CsharpWebApiSample.pdb
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\Newtonsoft.Json.dll
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\System.Net.Http.Formatting.dll
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\System.Web.Http.dll
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\System.Web.Http.WebHost.dll
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\Newtonsoft.Json.xml
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\System.Net.Http.Formatting.xml
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\System.Web.Http.xml
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\bin\System.Web.Http.WebHost.xml
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\obj\Debug\CsharpWebApiSample.csprojResolveAssemblyReference.cache
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\obj\Debug\CsharpWebApiSample.dll
+C:\Develop\CSharp\CsharpWebApiSample\CsharpWebApiSample\obj\Debug\CsharpWebApiSample.pdb
